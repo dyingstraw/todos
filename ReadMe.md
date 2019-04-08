@@ -1,6 +1,7 @@
 # 桌面壁纸待办事项
 
-![GitHub download](https://img.shields.io/badge/download-120-green.svg)
+![GitHub download](https://img.shields.io/badge/download-120-green.svg) 
+![licence](https://img.shields.io/badge/LICENCE-MIT-yellowgreen.svg)
 
 ---
 ## 环境
